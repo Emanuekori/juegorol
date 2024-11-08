@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #2d3748; /* Adjust color to fit your theme */
+    color: #ffffff;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+.navbar li {
+    padding: 0 15px; /* Adjust spacing */
+}
+
+.navbar a {
+    color: #ffffff;
+    text-decoration: none;
+}
